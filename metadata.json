@@ -2,5 +2,5 @@
   "name": "Test Coin",
   "symbol": "TEST",
   "description": "Just a test coin",
-  "image": "https://raw.githubusercontent.com/revision3/test-coin/main/test-coin.png"
+  "image": "https://raw.githubusercontent.com/revision-3/test-coin/refs/heads/main/test-coin.png"
 }
